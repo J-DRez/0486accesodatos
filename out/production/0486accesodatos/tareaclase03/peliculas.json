@@ -1,0 +1,17 @@
+{"películas": [
+    {
+        "director": "John McTiernan",
+        "título": "La Jungla de Cristal",
+        "año": 1988
+    },
+    {
+        "director": "Chris Columbus",
+        "título": "Harry Potter y la piedra filosofal",
+        "año": 2001
+    },
+    {
+        "director": "Jon M. Chu",
+        "título": "Wicked",
+        "año": 2024
+    }
+]}

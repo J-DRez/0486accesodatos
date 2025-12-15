@@ -1,4 +1,3 @@
-package tareaclase01;
 import java.io.File;
 
 public class ExploraRuta {

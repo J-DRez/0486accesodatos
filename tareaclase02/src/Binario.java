@@ -1,5 +1,3 @@
-package tareaclase02;
-
 import java.io.*;
 
 public class Binario {

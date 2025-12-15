@@ -1,5 +1,3 @@
-package tareaclase03;
-
 import org.json.*;
 import java.io.FileReader;
 import java.io.IOException;

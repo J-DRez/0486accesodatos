@@ -1,5 +1,3 @@
-package tareaclase03;
-
 public class Pelicula {
 
     private String titulo;

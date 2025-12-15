@@ -23,4 +23,4 @@
 hs_err_pid*
 replay_pid*
 out/production/0486accesodatos/clase05/BDJuegos.mv.db
-src/clase05/BDJuegos.mv.db
+clases/src/clase05/BDJuegos.mv.db
